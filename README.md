@@ -1,1 +1,2 @@
 # DSA_with_cpp
+Welcome to the **DSA with C++** repository! This repository contains various implementations of data structures and algorithms using C++. It is designed to help you understand and practice important topics in data structures and algorithms (DSA).
