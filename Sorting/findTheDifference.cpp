@@ -23,4 +23,3 @@ int main(){
     cout<<solution.findTheDifference(s,t)<<endl;
     return 0;
 }
-
