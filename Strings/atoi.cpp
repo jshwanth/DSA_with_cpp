@@ -27,7 +27,7 @@ int myAtoi(string s) {
 }
 
 int main() {
-    string s = "   -42   ";
+    string s = "                 -322222 ";
     cout << "Converted integer: " << myAtoi(s) << endl;
     return 0;
 }
